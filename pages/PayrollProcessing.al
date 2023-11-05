@@ -1,9 +1,8 @@
-page 50104 Dashboard
+page 50107 "Payroll Processing"
 {
-    PageType = ListPlus;
+    PageType = Card;
     ApplicationArea = All;
     UsageCategory = Administration;
-    // SourceTable = TableName;
     
     layout
     {
@@ -11,11 +10,7 @@ page 50104 Dashboard
         {
             group(GroupName)
             {
-                // field(Name; NameSource)
-                // {
-                //     ApplicationArea = All;
-                    
-                // }
+                
             }
         }
     }
