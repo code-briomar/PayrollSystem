@@ -25,10 +25,6 @@ page 50105 "Add Employee"
                 field("Employee Date Of Birth";Rec.DoB){
                     ApplicationArea = All;
                 }
-
-                field("Branch Name";Rec.BranchName){
-                    ApplicationArea = All;
-                }
             }
 
         }
